@@ -1,0 +1,25 @@
+﻿  MyHeart.cpp
+J:\Study\CPP\MyHeart\MyHeart\MyHeart.cpp(120,25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+J:\Study\CPP\MyHeart\MyHeart\MyHeart.cpp(122,25): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(242,16): warning C4244: “初始化”: 从“_Ty”转换到“_Ty1”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty1=int
+          ]
+J:\Study\CPP\MyHeart\MyHeart\MyHeart.cpp(96): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<double,double,0>(std::pair<double,double> &&) noexcept”的引用
+J:\Study\CPP\MyHeart\MyHeart\MyHeart.cpp(96): message : 查看对正在编译的函数 模板 实例化“std::pair<int,int>::pair<double,double,0>(std::pair<double,double> &&) noexcept”的引用
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\include\utility(242,61): warning C4244: “初始化”: 从“_Ty”转换到“_Ty2”，可能丢失数据
+          with
+          [
+              _Ty=double
+          ]
+          and
+          [
+              _Ty2=int
+          ]
+J:\Study\CPP\MyHeart\MyHeart\MyHeart.cpp(179): warning C4717: “draw”: 如递归所有控件路径，函数将导致运行时堆栈溢出
+  MyHeart.vcxproj -> J:\Study\CPP\MyHeart\x64\Debug\MyHeart.exe
